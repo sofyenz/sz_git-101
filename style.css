@@ -3,6 +3,10 @@ margin: 0;
 font-family: Helvetica;
 }
 
+h1{
+	font-weight: 100;
+}
+
 #logo {
 	height: 80px;
 	width: 80px;
